@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "title": "Apenas Um Teste",
+    "author": "Teste",
+    "year": 2025,
+    "description": "..."
+  },
+    {
+  "id": "2",
+  "title": "Capitães da Areia",
+  "author": "Jorge Amado",
+  "year": 1937,
+  "description": "Acompanhe a vida de meninos de rua que sobrevivem em Salvador."
+},
+
+  {
+    "id": "3",
+    "title": "O Corvo",
+    "author": "Edgar Allan POe",
+    "year": 1845,
+    "description": "Um poema narrativo sombrio e melancólico que explora temas de perda e luto"
+  },
+{
+  "id": "4",
+  "title": "Grande Sertão: Veredas",
+  "author": "João Guimarães Rosa",
+  "year": 1956,
+  "description": "Um épico sertanejo narrado por Riobaldo sobre amor, guerra e destino."
+},
+{
+  "id": "5",
+  "title": "Dom Casmurro",
+  "author": "Machado de Assis",
+  "year": 1899,
+  "description": "A reflexão de Bentinho sobre seu amor por Capitu e a dúvida da traição."
+},
+{
+  "id": "6",
+  "title": "A Hora da Estrela",
+  "author": "Clarice Lispector",
+  "year": 1977,
+  "description": "A história sensível de Macabéa, uma jovem nordestina ignorada pelo mundo."
+},
+{
+  "id": "7",
+  "title": "O Cortiço",
+  "author": "Aluísio Azevedo",
+  "year": 1890,
+  "description": "Um retrato naturalista da vida em um cortiço carioca e suas tensões sociais."
+},
+{
+    "id": "8",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "year": 1999,
+    "description": "Your Journey to Mastery"
+  }
+]
